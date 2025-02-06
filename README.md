@@ -12,6 +12,12 @@ A comprehensive full-stack web application for managing user transactions, depos
 A live demo video of the project is available on Google Drive. The demo showcases the complete functionality of the application including user authentication, transaction management and admin approval workflows.
 [Google Drive Demo](https://drive.google.com/file/d/1aT_H70HNjO4DraGoJ5AgBMZSOoaVYjQ0/view?usp=sharing)
 
+## ER Diagram
+
+Here is the Entity-Relationship Diagram (ERD) for the project:
+
+![ER Diagram](docs/Er-Diagram.png)
+
 
 ## 🚀 Features
 
