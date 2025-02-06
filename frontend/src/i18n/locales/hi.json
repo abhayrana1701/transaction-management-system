@@ -1,0 +1,49 @@
+{
+  "header":{
+    "appName": "रिज़्यूमे बिल्डर",
+    "home": "होम",
+    "createResume": "रिज़्यूमे बनाएँ",
+    "profile": "प्रोफ़ाइल",
+    "signIn": "साइन इन करें",
+    "logout": "लॉग आउट",
+    "signUp": "साइन अप करें"
+  },
+  "authForm": {
+    "headline": "This is good app",
+    "subline": "This app will help you",
+    "signup": "खाता बनाएं",
+    "signin": "साइन इन करें",
+    "name": "पूरा नाम",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "signUp": "साइन अप करें",
+    "signIn": "साइन इन करें",
+    "alreadyAccount": "क्या आपके पास पहले से खाता है?",
+    "noAccount": "क्या आपके पास खाता नहीं है?",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "invalidEmail": "अवैध ईमेल प्रारूप",
+    "nameRequired": "नाम आवश्यक है",
+    "emailRequired": "ईमेल आवश्यक है",
+    "passwordRequired": "पासवर्ड आवश्यक है",
+    "registrationFailed": "रजिस्ट्रेशन विफल",
+    "loginFailed": "लॉग इन विफल",
+    "successRegistration": "सफलतापूर्वक पंजीकृत हुआ!",
+    "successLogin": "सफलतापूर्वक लॉग इन हुआ!",
+    "passwordReset": "पासवर्ड रीसेट लिंक भेज दिया गया है",
+    "passwordResetFailed": "पासवर्ड रीसेट में विफल",
+    "resetPassword": "पासवर्ड रीसेट करें",
+    "newPassword": "नया पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि",
+    "passwordMismatch": "पासवर्ड मेल नहीं खा रहे हैं"
+  },
+  "footer": {
+    "storeName": "स्टोर",
+    "aboutUs": "हमारे बारे में",
+    "contactUs": "संपर्क करें",
+    "faq": "सामान्य प्रश्न",
+    "support": "सहायता",
+    "copyright": "© {{year}}",
+    "termsOfService": "सेवा की शर्तें",
+    "privacyPolicy": "गोपनीयता नीति"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "header":{
+    "appName": "NexBank",
+    "home": "Home",
+    "depositMoney": "Deposit Money",
+    "profile": "Profile",
+    "signIn": "Sign In",
+    "logout": "Logout",
+    "signUp": "Sign Up"
+  },
+  "authForm": {
+    "headline": "This is good app",
+    "subline": "This app will help you",
+    "signup": "Create an Account",
+    "signin": "Sign In",
+    "name": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "alreadyAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "forgotPassword": "Forgot Password?",
+    "invalidEmail": "Invalid email format",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "registrationFailed": "Registration failed",
+    "loginFailed": "Login failed",
+    "successRegistration": "Successfully registered!",
+    "successLogin": "Successfully logged in!",
+    "passwordReset": "Password reset link sent",
+    "passwordResetFailed": "Password reset failed",
+    "resetPassword": "Reset Password",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm Password",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "footer": {
+    "storeName": "NexBank",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "faq": "FAQ",
+    "support": "Support",
+    "copyright": "© {{year}} NexBank. All rights reserved.",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy"
+  }
+}
